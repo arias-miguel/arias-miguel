@@ -1,6 +1,11 @@
 ### Hello, I'm Miguel 👋
 
 
+
+
+
+
+
 🔭 I’m currently working on websites
 
 👯 I’m looking to collaborate with new projects,  new challenges
